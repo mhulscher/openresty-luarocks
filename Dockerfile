@@ -1,4 +1,4 @@
-FROM mhulscher/openresty
+FROM eu.gcr.io/sysops-1327/openresty
 MAINTAINER Mitch Hulscher <mitch.hulscher@lib.io>
 
 ENV LUAROCKS_SRC_SHA1=3e595956eab7192036a4993c24125284cd789894 \
